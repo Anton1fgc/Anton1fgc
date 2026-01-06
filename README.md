@@ -1,14 +1,13 @@
 # 👋 Hello World! I'm Antonin
 
-**First-Year IT Student** | **Northern France** 🇫🇷 | **Aspiring UI/UX Designer and frontend dev**
+**First-Year IT Student** | **Northern France** 🇫🇷 | **Aspiring Fullstack Dev**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate first-year IT student diving headfirst into the world of UI/UX and frontend development. My curiosity drives me to **build, experiment, and sometimes break things** 🥲 — because that's how we learn, right?
+I'm a passionate first-year IT student diving headfirst into the world of software development. My curiosity drives me to **build, experiment, and sometimes break things** 🥲 — because that's how we learn, right?
 
-My goal is to specialize in **programming and design become the best possible UI/UX designer and frontend developer**, crafting clean, functional, and impactful digital experiences.
 
 ## 🔍 What I'm Looking For
 
